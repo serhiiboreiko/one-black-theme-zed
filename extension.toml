@@ -1,0 +1,7 @@
+id = "oneblack"
+name = "One Black Theme"
+schema_version = 1
+version = "0.0.1"
+authors = ["Serhii Boreiko <jestersunborn@gmail.com>"]
+description = "One Dark got even dar..kier"
+repository = "https://github.com/serhiiboreiko/one-black-theme-zed"
